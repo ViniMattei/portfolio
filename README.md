@@ -1,8 +1,8 @@
-Portfólio 
+##Portfólio 
 
 Olá, Bem vindo ao meu projeto de portfólio.
 
-![Captura de tela 2024-01-20 182554](https://github.com/ViniMattei/portfolio/assets/146492170/071ff74b-c2a6-45de-b2fc-ab763cbec941)
+![Captura de tela 2024-01-20 182554](https://github.com/ViniMattei/portfolio/assets/146492170/3a5a5f98-6451-4391-a279-916b414399d7)
 
 ## Ferramentas utilizadas:
 
